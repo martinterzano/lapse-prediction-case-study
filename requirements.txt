@@ -1,0 +1,6 @@
+# Dependencies for the illustrative snippets in snippets/
+# Python >= 3.10
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+joblib>=1.3

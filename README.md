@@ -8,6 +8,8 @@
 
 **Sector:** insurance · **Role:** end-to-end (data, model, production, monitoring) · **Stack:** LightGBM · Python · SQL · GCP (BigQuery, Vertex AI, Cloud Composer, Cloud Storage, Looker) · **Status:** in production, weekly cadence
 
+*Writeup prepared September 2026; the implementation is client property.*
+
 The client owns the business metrics and internal identifiers. This case study
 describes how the problem was framed, how the model was built, and how the system
 reasons, without publishing client data, feature names, or exact performance
